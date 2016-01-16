@@ -1,4 +1,4 @@
-# Xcode
+# Xcode, vim
 #
 build/
 *.pbxuser
@@ -16,6 +16,8 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+
+*.swp
 
 # CocoaPods
 #
